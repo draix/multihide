@@ -1,0 +1,2 @@
+git commit -a -m "minor changes"; git push; ssh-draix-one.sh 'cd repos/multihide; git pull'
+
